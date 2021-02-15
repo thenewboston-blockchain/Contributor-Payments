@@ -24,8 +24,9 @@ is where weekly activity reports are submitted and organized.
 - not all payments will be sent out on Sunday since there may be some additional back and forth required if the Audit Team has any further questions or additional proof of work is needed
 
 **Audit Team**
-- Chrisha
-- Justin
-- Manish
+- [Chrisha](https://github.com/Chrisha1212)
+- [Chuy](https://github.com/javina89)
+- [Justin](https://github.com/angle943)
+- [Manish](https://github.com/manishram)
 
 ![thenewboston Logo](./images/activity-reports.png)
