@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="thenewboston logo" src="./images/thenewboston-primary.svg" width="400">
+</p>
+
 # Activity-Reports
 
 Project leads and team leads are responsible for submitting a weekly activity report to the Audit Team by Friday at 
