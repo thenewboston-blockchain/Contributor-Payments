@@ -1,1 +1,0 @@
-All the activity reports that have a deadline of the date included on the folder will appear here.
