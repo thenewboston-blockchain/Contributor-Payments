@@ -2,7 +2,7 @@
 name: TNB Team Report
 about: Add weekly report of TNB team.
 title: <TEAM NAME> - Week - <WeekNumber>
-labels: TNB Team
+labels: Pending, TNB Team, Week 1
 assignees: ''
 
 ---
