@@ -52,8 +52,8 @@ ___
  
 **Tasks of Member 1**
  
- 1. [Task 1] - [Task 1 Status: Done/Pending] - [Proof of Work 1]
- 2. [Task 2] - [Task 2 Status: Done/Pending] - [Proof of Work 2]
+ 1. [Task 1] - [Proof of Work 1]
+ 2. [Task 2] - [Proof of Work 2]
 
 ___
 ### 🖹 Feedback (Optional)
