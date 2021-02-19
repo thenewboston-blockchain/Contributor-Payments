@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 <p align="center">
-  <img alt="thenewboston logo" src="https://github.com/thenewboston-developers/Project-Proposals/raw/master/svgs/thenewboston-primary.svg" width="400">
+  <img alt="thenewboston logo" src="../../images/thenewboston-primary.svg" width="300">
 </p>
 
 # 📝 Weekly Report For TNB Projects
