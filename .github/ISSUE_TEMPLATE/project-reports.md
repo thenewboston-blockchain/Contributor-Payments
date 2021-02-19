@@ -2,7 +2,7 @@
 name: Project Report
 about: Add weekly report of the project.
 title: <Project Name> - Week - <WeekNumber>
-labels: TNB Team
+labels: Project
 assignees: ''
 
 ---
