@@ -14,7 +14,6 @@ assignees: ''
 
 
 ### Basic Details
-___
 
 **🧪 Name of the Project:** [ANSWER]
  
@@ -22,7 +21,6 @@ ___
 
  
 ### 📜 Team Work Report
-___
 ✅ **Accomplishments this week** 
  
  1. [Accomplishment 1]
@@ -45,7 +43,6 @@ ___
  
  
 ### 👨‍💻👩‍💻 Team Members Contribution Details 
-___
 **Team Member 1**: [TeamMemberName 1]
  
 **GitHub Username 1:** [GitHubUsername 1]
@@ -55,7 +52,6 @@ ___
  1. [Task 1] - [Proof of Work 1]
  2. [Task 2] - [Proof of Work 2]
 
-___
 ### 🖹 Feedback (Optional)
 
 [Your Feedback]
