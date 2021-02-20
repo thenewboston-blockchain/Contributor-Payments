@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 <p align="center">
-  <img alt="thenewboston logo" src="../../images/thenewboston-primary.svg" width="300">
+  <img alt="thenewboston logo" src="https://raw.githubusercontent.com/thenewboston-developers/Activity-Reports/master/images/thenewboston-primary.svg" width="300">
 </p>
 
 # 📝 Weekly Report For TNB Team
@@ -39,17 +39,15 @@ assignees: ''
 ❗❓ **Concerns** 
   
 [ANSWER]
- 
- 
+
 ### 👨‍💻👩‍💻 Team Members Contribution Details 
-**Team Member 1**: [TeamMemberName 1]
- 
-**GitHub Username 1:** [GitHubUsername 1]
- 
-**Tasks of Member 1**
- 
- 1. [Task 1] - [Task 1 Status: Done/Pending] - [Proof of Work 1]
- 2. [Task 2] - [Task 2 Status: Done/Pending] - [Proof of Work 2]
+[MemberGitHubUsername1]:
+* [Task 1] - [Proof of Work 1]
+* [Task 2] - [Proof of Work 2]
+
+[MemberGitHubUsername2]:
+* [Task 1] - [Proof of Work 1]
+* [Task 2] - [Proof of Work 2]
 
 ### 🖹 Feedback (Optional)
 
