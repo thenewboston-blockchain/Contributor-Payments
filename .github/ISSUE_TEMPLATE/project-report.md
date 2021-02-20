@@ -40,17 +40,15 @@ assignees: ''
 ❗❓ **Concerns** 
   
 [ANSWER]
- 
- 
+
 ### 👨‍💻👩‍💻 Team Members Contribution Details 
-**Team Member 1**: [TeamMemberName 1]
- 
-**GitHub Username 1:** [GitHubUsername 1]
- 
-**Tasks of Member 1**
- 
- 1. [Task 1] - [Proof of Work 1]
- 2. [Task 2] - [Proof of Work 2]
+[MemberGitHubUsername1]:
+* [Task 1] - [Proof of Work 1]
+* [Task 2] - [Proof of Work 2]
+
+[MemberGitHubUsername2]:
+* [Task 1] - [Proof of Work 1]
+* [Task 2] - [Proof of Work 2]
 
 ### 🖹 Feedback (Optional)
 
