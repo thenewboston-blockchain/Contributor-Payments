@@ -8,6 +8,13 @@ Project leads and team leads are responsible for submitting a weekly activity re
 midnight (UTC) each week. Payments will be sent out after the reports have been verified by the Audit Team. This repo 
 is where weekly activity reports are submitted and organized.
 
+|S.no|Task|Responsible|Deadline|
+|----|----|---|---|
+|1|Report Submission|Team Leads|Friday by 23:59 (UTC)|
+|2|Audit Reports|Auditors|Saturday by 23:59 (UTC)|
+|3|Objection to Audit Summary|Team Leads + Members|Sunday by 11:59 (UTC)|
+|4|Release Payments|Payments Team|Sunday by 23:59 (UTC)|
+
 **Audit Team Responsibilities**
 - review weekly activity reports
 - ask for additional proof of work if needed
