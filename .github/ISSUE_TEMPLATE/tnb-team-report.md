@@ -1,8 +1,8 @@
 ---
 name: TNB Team Report
 about: Add weekly report of TNB team.
-title: <TEAM NAME> - Week - <WeekNumber>
-labels: Pending, TNB Team, Week 1
+title: <TEAM NAME> - Week - 2
+labels: Pending, TNB Team, Week 2
 assignees: ''
 
 ---
@@ -16,7 +16,7 @@ assignees: ''
 ### Basic Details
 **🏟️ Name of the TNB Team:** [ANSWER]
  
-**📅 Report Date:** [02-19-2021]
+**📅 Report Date:** [02-26-2021]
 
  
 ### 📜 Team Work Report
@@ -41,14 +41,14 @@ assignees: ''
 [ANSWER]
  
 ### 👨‍💻👩‍💻 Team Members Contribution Details 
-[MemberGitHubUsername1]:
+[MemberGitHubUsername1]: [TNB Account Number]
 * [Task 1] - [Proof of Work 1]
 * [Task 2] - [Proof of Work 2]
 
-[MemberGitHubUsername2]:
+[MemberGitHubUsername2]: [TNB Account Number]
 * [Task 1] - [Proof of Work 1]
 * [Task 2] - [Proof of Work 2]
 
-### 🖹 Feedback (Optional)
+### 🖹 Any Additional Notes (Optional)
 
-[Your Feedback]
+[Your notes]
