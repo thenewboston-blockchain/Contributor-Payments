@@ -1,8 +1,8 @@
 ---
 name: Project Report
 about: Add weekly report of the project.
-title: <Project Name> - Week - <WeekNumber>
-labels: Pending, Project, Week 1
+title: <Project Name> - Week - 2
+labels: Pending, Project, Week 2
 assignees: ''
 
 ---
@@ -17,7 +17,7 @@ assignees: ''
 
 **🧪 Name of the Project:** [ANSWER]
  
-**📅 Report Date:** [02-19-2021]
+**📅 Report Date:** [02-26-2021]
 
  
 ### 📜 Team Work Report
@@ -42,14 +42,14 @@ assignees: ''
 [ANSWER]
 
 ### 👨‍💻👩‍💻 Team Members Contribution Details 
-[MemberGitHubUsername1]:
+[MemberGitHubUsername1]: [TNB Account Number]
 * [Task 1] - [Proof of Work 1]
 * [Task 2] - [Proof of Work 2]
 
-[MemberGitHubUsername2]:
+[MemberGitHubUsername2]: [TNB Account Number]
 * [Task 1] - [Proof of Work 1]
 * [Task 2] - [Proof of Work 2]
 
-### 🖹 Feedback (Optional)
+### 🖹 Any Additional Notes (Optional)
 
-[Your Feedback]
+[Your Notes]
