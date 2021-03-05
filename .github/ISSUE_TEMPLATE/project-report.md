@@ -1,8 +1,8 @@
 ---
 name: Project Report
 about: Add weekly report of the project.
-title: <Project Name> - Week - 2
-labels: Pending, Project, Week 2
+title: <Project Name> - Week - 3
+labels: Pending, Project, Week 3
 assignees: ''
 
 ---
@@ -17,7 +17,7 @@ assignees: ''
 
 **🧪 Name of the Project:** [ANSWER]
  
-**📅 Report Date:** [02-26-2021]
+**📅 Report Date:** [03-05-2021]
 
  
 ### 📜 Team Work Report
