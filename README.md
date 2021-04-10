@@ -20,7 +20,7 @@ For any teams that use the bounty system, the related team lead will manage a bo
 team's bounty account are depleted the team lead may request additional funding.
 
 - [Bounty account refill documentation](https://thenewboston.com/teams/All/Resources/bounty-account-refills)
-- [Submit a bounty account refill request](************* ADD LINK HERE *************)
+- [Submit a bounty account refill request](https://github.com/thenewboston-developers/Activity-Reports/issues/new?assignees=&labels=Bounty+Account+Refill+Request&template=bounty-account-refill-request.md&title=Bounty+Account+Refill+Request+-+DD%2FMM%2FYYYY+-+TEAM_NAME)
 
 ## Community
 
