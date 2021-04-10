@@ -2,7 +2,7 @@
   <img alt="thenewboston logo" src="./images/thenewboston-primary.svg" width="400">
 </p>
 
-# Activity Reports
+# Contributor Payments
 
 This repository is used for the submission of various payment and funding requests including those listed below.
 
