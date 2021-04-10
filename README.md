@@ -11,7 +11,7 @@ This repository is used for the submission of various payment related documents 
 - [Project Proposals (including first milestone)](https://thenewboston.com/projects/overview)
 - [Additional Project Milestones](https://thenewboston.com/projects/milestones)
 
-For any questions, comments, or concerns please contact the [audit team](https://thenewboston.com/teams/Audit/Members) 
+For any questions, comments, or concerns please contact the [Audit Team](https://thenewboston.com/teams/Audit/Members) 
 on [Discord](https://discord.gg/thenewboston).
 
 ## Community
