@@ -1,8 +1,8 @@
 ---
-name: Bounty Account Refill Request
-about: Request funding for a bounty account (team leads only).
-title: Bounty Account Refill Request - DD/MM/YYYY - TEAM_NAME
-labels: Bounty Account Refill Request
+name: Bounty Payment Request
+about: Request funding for bounty (team leads only).
+title: Bounty Payment Request - DD/MM/YYYY - TEAM_NAME
+labels: Bounty Payment
 assignees: ''
 
 ---
